@@ -1,159 +1,71 @@
-📘 Machine Learning Case Study Notebook
-📌 Overview
+# 📊 Machine Learning Case Study – Multiple Notebooks
 
-This repository contains a practice notebook completed as part of a classroom case study on basic Machine Learning models using Python.
+## 📌 Overview
 
-The purpose of this notebook is to understand how different ML algorithms work through small, structured datasets.
+This repository contains multiple Jupyter notebooks created as part of a Machine Learning case study.
 
-🧠 Topics Covered
+Each notebook focuses on a specific ML model and includes 4–5 small business-style practice problems.
 
-The notebook includes hands-on implementation of:
+The goal of this case study is to understand how different Machine Learning algorithms work and how to interpret results in practical business scenarios.
 
-Linear Regression (Predict continuous values)
+---
 
-Logistic Regression (Binary classification)
+Each notebook includes:
+- Dataset creation
+- Model training
+- Prediction
+- Visualization
+- Business interpretation
 
-K-Means Clustering (Customer segmentation)
+---
 
-Hierarchical Clustering (Product grouping)
+## 🧠 Models Covered
 
-📊 Case Study Scenarios
+### 🔹 Linear Regression
+Used for predicting continuous values (e.g., salary, house price).
 
-The models were applied to simple business examples such as:
+### 🔹 Logistic Regression
+Used for binary classification (e.g., pass/fail, buy/not buy).
 
-Predicting salary based on experience
+### 🔹 K-Means Clustering
+Used for grouping customers based on similarity.
 
-Predicting customer purchase behavior
+### 🔹 Hierarchical Clustering
+Used for grouping products based on price and demand.
 
-Predicting student pass/fail
+---
 
-Customer segmentation
+## 🎯 Learning Objectives
 
-Product grouping
+Through these notebooks, I practiced:
 
-🛠 Tools Used
+- Defining features (`X`) and targets (`y`)
+- Training supervised models
+- Performing unsupervised clustering
+- Making predictions
+- Visualizing results
+- Interpreting outputs in business terms
 
-Python
+---
 
-Pandas
+## 🛠 Technologies Used
 
-NumPy
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
 
-Matplotlib
+---
 
-Scikit-Learn
+## 📎 Note
 
-🎯 Learning Objective
+These notebooks are part of a structured learning case study and are intended to demonstrate understanding of foundational Machine Learning concepts.
 
-This notebook focuses on:
+---
 
-Understanding supervised vs unsupervised learning
+## 👩‍💻 Author
 
-Defining features (X) and target (y)
-
-Training models
-
-Making predictions
-
-Interpreting outputs in business terms
-
-📎 Notes
-
-This is a practice case study for learning purposes and does not use real-world production data.
-
-👩‍💻 Author
-
-Khushbu Ramoliya
-M.Eng – Electrical & Computer Engineering
-
-That’s it. Clean. Academic. Honest.
-
-If you want, I can also:
-
-Make it even shorter (minimal version)
-
-Make it more student-style
-
-Or slightly polished for GitHub portfolio without overselling it 😊
-
-Or slightly polished for GitHub portfolio without overselling it 😊
-
-Perfect 😄 — we’ll make it portfolio-ready but not exaggerated. Clean, confident, and honest.
-
-You can copy-paste this directly into your README.md:
-
-📊 Machine Learning Fundamentals – Case Study Notebook
-📌 Overview
-
-This repository contains a practice notebook completed as part of a Machine Learning case study.
-
-The objective was to implement and understand foundational ML models using small, structured datasets and interpret the results in simple business terms.
-
-This is a learning-focused project demonstrating core concepts rather than a production-level system.
-
-🧠 Models Implemented
-🔹 Linear Regression
-
-Predict continuous values (e.g., salary based on years of experience).
-
-🔹 Logistic Regression
-
-Binary classification (e.g., purchase prediction, student pass/fail).
-
-🔹 K-Means Clustering
-
-Customer segmentation based on numerical features.
-
-🔹 Hierarchical Clustering
-
-Product grouping based on similarity between features.
-
-🛠 Technologies Used
-
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Scikit-Learn
-
-🎯 Key Learning Outcomes
-
-Through this case study, I practiced:
-
-Defining features (X) and target (y)
-
-Training supervised and unsupervised models
-
-Making predictions
-
-Interpreting outputs in business context
-
-Visualizing model results
-
-Understanding differences between regression, classification, and clustering
-
-📊 Example Business Scenarios
-
-Salary prediction based on experience
-
-Customer purchase behavior prediction
-
-Academic performance prediction
-
-Customer segmentation
-
-Product performance grouping
-
-📎 Note
-
-This notebook is intended for educational purposes to demonstrate understanding of core Machine Learning concepts.
-
-👩‍💻 Author
-
-Khushbu Ramoliya
-Master of Engineering – Electrical & Computer Engineering
+Khushbu Ramoliya  
+Master of Engineering – Electrical & Computer Engineering  
 Aspiring Data Analyst / Data Engineer
