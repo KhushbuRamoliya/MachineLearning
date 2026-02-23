@@ -1,4 +1,4 @@
-# 📊 Machine Learning Case Study – Multiple Notebooks
+# 📊 Machine Learning Case Study 
 
 ## 📌 Overview
 
